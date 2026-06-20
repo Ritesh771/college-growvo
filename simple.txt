@@ -1,0 +1,12 @@
+2. Submit to Google Search Console (Crucial Step)
+Google doesn't automatically know your site exists right away. You must tell them:
+
+Go to Google Search Console.
+Add a new property and type in your domain: https://httpswwwdwinethra.org/ (or use the Domain verification method).
+Verify ownership of the domain. Google usually gives you a TXT record that you will need to add to your DNS Management page.
+3. Request Indexing
+Once you are inside Google Search Console:
+
+Paste your exact URL https://httpswwwdwinethra.org/ into the top search bar.
+It will say "URL is not on Google". Click the Request Indexing button.
+This forces Google's bots to crawl your site immediately and read all the "Dwinethra" keywords we just added.
